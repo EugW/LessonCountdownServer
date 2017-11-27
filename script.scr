@@ -1,0 +1,4 @@
+cd /root/lesson/
+del lessoncountdownserver-1.0-SNAPSHOT.jar
+put build\libs\lessoncountdownserver-1.0-SNAPSHOT.jar
+quit
